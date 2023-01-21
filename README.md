@@ -1,2 +1,2 @@
-# London-Housing-Tier-3
+# Heart-Disease-Risk
 Analyzing housing prices in London using Python.
